@@ -1,0 +1,25 @@
+{
+  "author": "Koopa",
+  "name": "koopas-verification",
+  "version": "1.0.0",
+  "description": "Discord verification system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.x",
+    "dotenv": "^16.x",
+    "express": "^4.x",
+    "express-handlebars": "^7.x",
+    "express-session": "^1.x",
+    "mongoose": "^7.x",
+    "passport": "^0.x",
+    "passport-discord": "^0.1.x"
+  },
+  "devDependencies": {
+    "nodemon": "^2.x"
+  }
+}
