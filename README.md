@@ -37,7 +37,7 @@ A robust Discord verification system that uses OAuth2 to verify users through a 
 ### Step 2: Project Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/koopas-verification.git
+   git clone https://github.com/KoopaCode/Koopa-Oauth.git
    cd koopas-verification
    ```
 2. Install dependencies:
